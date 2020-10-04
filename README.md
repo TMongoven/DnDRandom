@@ -1,10 +1,6 @@
 # DnDRandom
 This program helps the user create a DnD character with as much or as little input as they desire.
 
-DATE: September 28th, 2020
-TO: EE 333T Class
-FROM: Travis Mongoven
-SUBJECT: A technical description of the design process behind creating a Dungeons and Dragons Character Randomizer in Python
 INTRODUCTION
 The purpose of this document is to outline the functionality and usage of a Dungeons and Dragons character randomizer that was developed in Python. This character randomizer is intended to allow as much flexibility and input as the user would like, between full randomization and fully chosen. By implementing it in this way, the user can take an idea and expand on it or start from scratch with something fully new to them. This was created to avoid creative blocks, so newer players do not have to be overwhelmed by all of the options available when creating their first few characters, and more experienced players have the option to randomize specific things that they do not want to choose themselves.
 
